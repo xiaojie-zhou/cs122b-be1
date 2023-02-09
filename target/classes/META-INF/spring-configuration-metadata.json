@@ -1,0 +1,32 @@
+{
+  "groups": [
+    {
+      "name": "idm",
+      "type": "com.github.klefstad_teaching.cs122b.idm.config.IDMServiceConfig",
+      "sourceType": "com.github.klefstad_teaching.cs122b.idm.config.IDMServiceConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "idm.access-token-expire",
+      "type": "java.time.Duration",
+      "sourceType": "com.github.klefstad_teaching.cs122b.idm.config.IDMServiceConfig"
+    },
+    {
+      "name": "idm.key-file-name",
+      "type": "java.lang.String",
+      "sourceType": "com.github.klefstad_teaching.cs122b.idm.config.IDMServiceConfig"
+    },
+    {
+      "name": "idm.max-refresh-token-life-time",
+      "type": "java.time.Duration",
+      "sourceType": "com.github.klefstad_teaching.cs122b.idm.config.IDMServiceConfig"
+    },
+    {
+      "name": "idm.refresh-token-expire",
+      "type": "java.time.Duration",
+      "sourceType": "com.github.klefstad_teaching.cs122b.idm.config.IDMServiceConfig"
+    }
+  ],
+  "hints": []
+}

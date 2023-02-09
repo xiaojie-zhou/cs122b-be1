@@ -1,0 +1,9 @@
+2023-01-26 21:42:22.736  INFO 48551 --- [main] c.g.k.cs122b.idm.IDMService              : Starting IDMService using Java 18 on Xiaojies-MacBook-Pro.local with PID 48551 (/Users/XiaojieZhou/CS122B/cs122b-be1/target/classes started by XiaojieZhou in /Users/XiaojieZhou/CS122B/cs122b-be1)
+2023-01-26 21:42:22.737  INFO 48551 --- [main] c.g.k.cs122b.idm.IDMService              : No active profile set, falling back to 1 default profile: "default"
+2023-01-26 21:42:23.860  INFO 48551 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2023-01-26 21:42:23.866  INFO 48551 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-01-26 21:42:23.867  INFO 48551 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.60]
+2023-01-26 21:42:23.944  INFO 48551 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-01-26 21:42:23.944  INFO 48551 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1087 ms
+2023-01-26 21:42:24.411  INFO 48551 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2023-01-26 21:42:24.423  INFO 48551 --- [main] c.g.k.cs122b.idm.IDMService              : Started IDMService in 2.104 seconds (JVM running for 3.038)
